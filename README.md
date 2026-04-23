@@ -1,6 +1,5 @@
 # 密码学实践 - 实网实战版
 
-> Cryptography Practice - Real Network Edition
 
 ## 项目简介
 
